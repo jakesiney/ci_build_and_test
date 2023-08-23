@@ -1,4 +1,4 @@
-# CI Build and Test project
+# CI/CD Build and Test project
 
 This is continuous intergration project.
 
