@@ -3,3 +3,5 @@
 This is continuous intergration project.
 
 Testing a build and test workflow using gitHub actions.
+
+Including a unit test with pytest and deploying direct to the Makers exoframe.
