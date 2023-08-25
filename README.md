@@ -1,6 +1,6 @@
 # CI/CD Build and Test project
 
-This is continuous intergration project.
+This is a continuous intergration project.
 
 Testing a build and test workflow using gitHub actions.
 
